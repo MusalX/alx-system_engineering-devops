@@ -11,3 +11,4 @@ Remove the directory
 10 - go to parent directory
 11 - list contetn on various directoies and with diffrents criterias"
 12 - print the type of the file usong file commmand
+14 ln to create a link, -s as soft link .  . to cureent durectory and then the name
