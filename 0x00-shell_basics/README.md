@@ -5,3 +5,4 @@ current working directoy- pwd : showing the current path
 4 list all files includign hiding files using ls -a
 5 list files using group ids in long format including .file
 6 - go to tmp and create a directory onn it
+7 - move a file to another directory
