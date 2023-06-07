@@ -6,3 +6,4 @@ current working directoy- pwd : showing the current path
 5 list files using group ids in long format including .file
 6 - go to tmp and create a directory onn it
 7 - move a file to another directory
+8 - remove betyy from know directory
