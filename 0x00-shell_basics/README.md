@@ -9,3 +9,4 @@ current working directoy- pwd : showing the current path
 8 - remove betyy from know directory
 Remove the directory
 10 - go to parent directory
+11 - list contetn on various directoies and with diffrents criterias"
