@@ -1,2 +1,2 @@
-current working directory
-pwd : showing the current path
+current working directoy- pwd : showing the current path
+1-lisit : ls list content files and directories
