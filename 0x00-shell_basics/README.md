@@ -7,3 +7,4 @@ current working directoy- pwd : showing the current path
 6 - go to tmp and create a directory onn it
 7 - move a file to another directory
 8 - remove betyy from know directory
+Remove the directory
