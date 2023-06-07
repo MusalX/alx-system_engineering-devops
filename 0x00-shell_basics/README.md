@@ -3,3 +3,4 @@ current working directoy- pwd : showing the current path
 2 - go to home directoiry using cd ~
 3 list the long details of a directory using ls -l
 4 list all files includign hiding files using ls -a
+5 list files using group ids in long format including .file
