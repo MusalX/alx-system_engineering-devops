@@ -8,3 +8,4 @@ current working directoy- pwd : showing the current path
 7 - move a file to another directory
 8 - remove betyy from know directory
 Remove the directory
+10 - go to parent directory
