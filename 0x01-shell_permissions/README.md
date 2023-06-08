@@ -9,3 +9,4 @@ shell permisions
 8 add exec for all ( owner , group owner and others) : chmod a+x namefile
 9 set permissions for owner, group and other , chmod 007
 10 transfer code RWX to binary code for chmod
+11 
