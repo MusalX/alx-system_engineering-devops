@@ -4,3 +4,4 @@ shell permisions
 3 show all grouos im part of : groups
 4 change owner of the file : sudo shown new user  file
 5 create a new file called hello " touch hello" 
+6 add exec perm to the oxner of the file : chmod u+x
