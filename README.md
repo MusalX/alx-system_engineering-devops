@@ -1,3 +1,2 @@
-the project of shell basics
-writing new scripts
-files that are exucted
+shell permisions
+1  change file user :  su chmod
