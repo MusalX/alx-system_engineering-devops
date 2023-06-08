@@ -16,3 +16,4 @@ Remove the directory
 15 move only starting with upper case *[A-Z] to a destination dire
 16 remove all files ending with ~  *~ 
 17 mkdir -p allow creating also parent dir if not existing
+18 ls -x multi columun sorted vertically, -m comma separated -p add / directories
