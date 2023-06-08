@@ -15,3 +15,4 @@ Remove the directory
 14 copy cp -n dont overwrite existing -n newer version  *.html extension .. from new to parent 
 15 move only starting with upper case *[A-Z] to a destination dire
 16 remove all files ending with ~  *~ 
+17 mkdir -p allow creating also parent dir if not existing
