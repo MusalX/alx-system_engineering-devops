@@ -11,4 +11,5 @@ shell permisions
 9 transfer code RWX to binary code for chmod
 10 set file perm the same as file y : chmod --reference=filey filex
 11 Add X to all subdirectories for all : chmod -R a+X .
-12 create a dir with 751 perm mkdir -m 751 my-dir  
+12 create a dir with 751 perm mkdir -m 751 my-dir
+13 change grp ownership : chgrp school (owner) hello (file)  
