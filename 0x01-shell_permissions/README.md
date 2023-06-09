@@ -12,4 +12,6 @@ shell permisions
 10 set file perm the same as file y : chmod --reference=filey filex
 11 Add X to all subdirectories for all : chmod -R a+X .
 12 create a dir with 751 perm mkdir -m 751 my-dir
-13 change grp ownership : chgrp school (owner) hello (file)  
+13 change grp ownership : chgrp school (owner) hello (file)
+14 change owner and grp owner ; chown owner:groupowner * (for all dir and files in working dir
+  
