@@ -14,4 +14,6 @@ shell permisions
 12 create a dir with 751 perm mkdir -m 751 my-dir
 13 change grp ownership : chgrp school (owner) hello (file)
 14 change owner and grp owner ; chown owner:groupowner * (for all dir and files in working dir
+15 change owner and grp owner to a specific gtoup chow -h (specified file) owner:grpowner file
+16 change the owner of the file only if the owner is x : chown --from=x newoner file
   
