@@ -9,4 +9,5 @@ shell permisions
 7 add exec for all ( owner , group owner and others) : chmod a+x namefile
 8 set permissions for owner, group and other , chmod 007
 9 transfer code RWX to binary code for chmod
-10 set file perm the same as file y : chmod --reference=filey filex  
+10 set file perm the same as file y : chmod --reference=filey filex
+11 Add X to all subdirectories for all : chmod -R a+X .  
