@@ -8,3 +8,4 @@
 7 escape each special character with /, if theres space, empark  between ""
 8 list the content in an other file using ls > file
 9 duplicae the last line, is like appending the last line on the same file
+10 find file ysing find type -f for file . for current directory -name for criteria and - delete for action
