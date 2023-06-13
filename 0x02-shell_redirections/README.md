@@ -18,4 +18,4 @@
 17 -v to invert matching, do no contain "ghh"
 18 starrting with "^[a-z]"
 19 using tr to replace "A" with "c"
-
+20 tr -d to delete "stuff"
