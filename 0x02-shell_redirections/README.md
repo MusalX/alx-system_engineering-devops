@@ -10,3 +10,4 @@
 9 duplicae the last line, is like appending the last line on the same file
 10 find file ysing find type -f for file . for current directory -name for criteria and - delete for action
 11 find directeory that -not -name to exclude some, outpout line will be counted
+12 list (1 by line and sorted newest to oldest (1 - t ) then output head 10
