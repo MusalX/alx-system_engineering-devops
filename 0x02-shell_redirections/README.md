@@ -19,3 +19,4 @@
 18 starrting with "^[a-z]"
 19 using tr to replace "A" with "c"
 20 tr -d to delete "stuff"
+21 rev to reverse dispaly
