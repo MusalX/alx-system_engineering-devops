@@ -12,4 +12,4 @@
 11 find directeory that -not -name to exclude some, outpout line will be counted
 12 list (1 by line and sorted newest to oldest (1 - t ) then output head 10
 13 uniq q to delete successive copies and sort to avoid that missing copie that are not successive
-
+14 grep print line that contains a pattern root, -i to ignore casesentive.
