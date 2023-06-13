@@ -20,3 +20,4 @@
 19 using tr to replace "A" with "c"
 20 tr -d to delete "stuff"
 21 rev to reverse dispaly
+22 : cut to display only user and home directory usined delimter -d and fields -f
