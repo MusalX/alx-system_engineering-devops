@@ -7,3 +7,4 @@
 6 dispay the 3 first line using head -3, then dispay only the last one using tail -1
 7 escape each special character with /, if theres space, empark  between ""
 8 list the content in an other file using ls > file
+9 duplicae the last line, is like appending the last line on the same file
