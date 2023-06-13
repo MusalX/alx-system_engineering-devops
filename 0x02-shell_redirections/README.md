@@ -14,3 +14,4 @@
 13 uniq q to delete successive copies and sort to avoid that missing copie that are not successive
 14 grep print line that contains a pattern root, -i to ignore casesentive.
 15 grep to display all lines containing 'bin" and count them wc -l
+16 whithing Grep, show the next 3 lines with -A 3
