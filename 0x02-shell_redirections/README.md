@@ -13,3 +13,4 @@
 12 list (1 by line and sorted newest to oldest (1 - t ) then output head 10
 13 uniq q to delete successive copies and sort to avoid that missing copie that are not successive
 14 grep print line that contains a pattern root, -i to ignore casesentive.
+15 grep to display all lines containing 'bin" and count them wc -l
