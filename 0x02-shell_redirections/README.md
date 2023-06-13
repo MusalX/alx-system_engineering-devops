@@ -17,4 +17,5 @@
 16 whithing Grep, show the next 3 lines with -A 3
 17 -v to invert matching, do no contain "ghh"
 18 starrting with "^[a-z]"
+19 using tr to replace "A" with "c"
 
