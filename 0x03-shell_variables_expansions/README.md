@@ -7,4 +7,4 @@
 6 local variable name=value
 7 export to create global var
 8 addition
-
+9 division
