@@ -6,3 +6,5 @@
 5 set  lists all local variables and environment variables, and functions
 6 local variable name=value
 7 export to create global var
+8 addition
+
