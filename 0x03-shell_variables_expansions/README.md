@@ -9,3 +9,4 @@
 8 addition
 9 division
 10 power is **
+11 from (BASE#number) to 10
