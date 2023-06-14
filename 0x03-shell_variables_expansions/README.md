@@ -12,3 +12,4 @@
 11 from (BASE#number) to 10
 12 print all combination using {} then replace space with new line \n and finally grep non matchin oo to not show oo
 13 printf to print other variables like float"
+14 decimal to hexa decimal using printf %x
