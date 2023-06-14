@@ -4,3 +4,4 @@
 3 echo path and grep -o (match) :/ into lines and count them then add 1
 4 print env variable printenv
 5 set  lists all local variables and environment variables, and functions
+6 local variable name=value
