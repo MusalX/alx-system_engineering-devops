@@ -14,4 +14,4 @@
 13 printf to print other variables like float"
 14 decimal to hexa decimal using printf %x
 15 tr (replace) from A-Z to N-ZA-M"
-
+16 join lines with a delimiter with paste -d - - and then cut the secong part or the line after dimiliter cut -d -f1
