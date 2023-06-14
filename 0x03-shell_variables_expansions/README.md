@@ -13,3 +13,5 @@
 12 print all combination using {} then replace space with new line \n and finally grep non matchin oo to not show oo
 13 printf to print other variables like float"
 14 decimal to hexa decimal using printf %x
+15 echo string (lettre) | output tr (replace) from A-Z to N-ZA-M"
+
